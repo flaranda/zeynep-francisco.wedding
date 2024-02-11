@@ -13,6 +13,18 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      animation: {
+        "spin-hexagon-bold": "spin 80s linear infinite",
+        "spin-hexagon-thin": "spin 60s linear infinite",
+        "spin-hexagon-thin-extra":
+          "spin-hexagon-thin-extra 40s linear infinite",
+      },
+      keyframes: {
+        "spin-hexagon-thin-extra": {
+          "0%": { transform: "rotate(90deg)" },
+          "100%": { transform: "rotate(450deg)" },
+        },
+      },
     },
   },
   plugins: [],
