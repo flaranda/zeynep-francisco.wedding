@@ -8,7 +8,7 @@ export default function Index() {
       <header className="flex fixed z-10 w-screen p-6 justify-end">
         <Bars3Icon className="w-9 cursor-pointer" />
       </header>
-      <section className="flex items-center justify-center h-screen max-h-screen w-screen bg-neutral-200">
+      <section className="flex items-center justify-center w-screen h-svh md:py-6 bg-neutral-200">
         <Invitation />
       </section>
     </main>
