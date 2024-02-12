@@ -25,6 +25,10 @@ const config: Config = {
           "100%": { transform: "rotate(450deg)" },
         },
       },
+      spacing: {
+        "128": "32rem",
+        "256": "48rem",
+      },
     },
   },
   plugins: [],

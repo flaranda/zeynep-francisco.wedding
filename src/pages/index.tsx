@@ -6,9 +6,9 @@ export default function Index() {
   return (
     <main>
       <header className="flex fixed z-10 w-screen p-6 justify-end">
-        <Bars3Icon className="w-9" />
+        <Bars3Icon className="w-9 cursor-pointer" />
       </header>
-      <section className="flex items-center justify-center h-screen max-h-screen w-screen overflow-hidden">
+      <section className="flex items-center justify-center h-screen max-h-screen w-screen bg-neutral-200">
         <Invitation />
       </section>
     </main>

@@ -1,24 +1,18 @@
-import {
-  Dancing_Script,
-  Great_Vibes,
-  Ms_Madi,
-  Qwitcher_Grypen,
-} from "next/font/google";
+import { Great_Vibes, Urbanist } from "next/font/google";
 import Image from "next/image";
 import { useTranslation } from "next-i18next";
 
-const dancing = Dancing_Script({ subsets: ["latin"] });
+const urbanist = Urbanist({ subsets: ["latin"], weight: "400" });
 const vibes = Great_Vibes({ subsets: ["latin"], weight: "400" });
-const madi = Ms_Madi({ subsets: ["latin"], weight: "400" });
-const grypen = Qwitcher_Grypen({ subsets: ["latin"], weight: "400" });
 
 export function Invitation() {
   const { t } = useTranslation("home");
+
   return (
-    <div className="flex relative w-screen items-center h-screen max-h-screen justify-center bg-neutral-100">
-      <div className="absolute top-0 w-screen h-screen">
+    <div className="flex flex-col items-center justify-center relative w-full h-svh md:w-128 md:h-256 md:shadow-2xl md:border md:border-neutral-300 bg-neutral-100 overflow-hidden">
+      <div className="absolute top-0 w-full h-full">
         <Image
-          src="/images/frame.png"
+          src="/images/frame.svg"
           alt=""
           width={100}
           height={100}
@@ -57,14 +51,14 @@ export function Invitation() {
           alt=""
           width={100}
           height={100}
-          className="absolute top-0 bottom-0 right-0 left-0 m-auto w-80"
+          className="absolute -top-5 bottom-0 right-0 left-0 m-auto w-80"
         />
         <Image
           src="/images/crown-2.svg"
           alt=""
           width={100}
           height={100}
-          className="absolute top-0 bottom-0 right-0 left-0 m-auto w-80"
+          className="absolute top-0 -bottom-5 right-0 left-0 m-auto w-80"
         />
       </div>
       <h1 className={`${vibes.className} text-center text-stone-800`}>
@@ -72,6 +66,7 @@ export function Invitation() {
         <p className="text-4xl">- {t("and")} -</p>
         <p className="text-6xl">Francisco</p>
       </h1>
+      <sub className={`${urbanist.className} text-stone-800`}>{t("date")}</sub>
     </div>
   );
 }
