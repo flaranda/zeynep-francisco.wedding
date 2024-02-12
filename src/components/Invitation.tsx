@@ -61,9 +61,9 @@ export function Invitation() {
           className="absolute top-0 -bottom-5 right-0 left-0 m-auto w-80 md:w-96"
         />
       </div>
-      <h1 className={`${vibes.className} text-center text-stone-800`}>
+      <h1 className={`${vibes.className} text-center text-stone-800 md:mt-4`}>
         <p className="text-6xl md:text-7xl">Zeynep</p>
-        <p className="text-4xl md:text-5xl">- {t("and")} -</p>
+        <p className="text-4xl">- {t("and")} -</p>
         <p className="text-6xl md:text-7xl">Francisco</p>
       </h1>
       <sub className={`${urbanist.className} text-stone-800 md:text-sm`}>
