@@ -4,6 +4,8 @@ import { Bars3Icon } from "@heroicons/react/24/outline";
 
 import { Timeline } from "@/components/Timeline";
 import { Title } from "@/components/Title";
+import { Avatar } from "@/components/Avatar";
+import { Menu } from "@/components/Menu";
 
 export default function Index() {
   return (
@@ -15,8 +17,16 @@ export default function Index() {
         <Invitation />
       </section>
       <section className="flex flex-col items-center justify-center w-screen my-16 max-w-[64rem]">
+        <Title text="Our Story" />
+        <Avatar />
+      </section>
+      <section className="flex flex-col items-center justify-center w-screen my-16 max-w-[64rem]">
         <Title text="Timeline" />
         <Timeline />
+      </section>
+      <section className="flex flex-col items-center justify-center w-screen my-16 max-w-[64rem]">
+        <Title text="Menu" />
+        <Menu />
       </section>
     </main>
   );

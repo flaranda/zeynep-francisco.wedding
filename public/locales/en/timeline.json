@@ -14,25 +14,25 @@
   "ceremony": {
     "title": "Civil ceremony",
     "time": "12:30",
-    "place": "Hacienda Santa María",
+    "place": "Hacienda Santa María (garden)",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
   },
   "cocktail": {
     "title": "Cocktail",
     "time": "12:30",
-    "place": "Hacienda Santa María",
+    "place": "Hacienda Santa María (garden)",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
   },
   "lunch": {
     "title": "Lunch",
     "time": "12:30",
-    "place": "Hacienda Santa María",
+    "place": "Hacienda Santa María (hall)",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
   },
   "party": {
     "title": "Party",
     "time": "12:30",
-    "place": "Hacienda Santa María",
+    "place": "Hacienda Santa María (disco)",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
   }
 }

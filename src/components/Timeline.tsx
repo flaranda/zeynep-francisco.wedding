@@ -48,8 +48,8 @@ export function Timeline() {
     <div className="flex flex-col w-full">
       <ul className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">
         {timelineData.map((value, index) => (
-          <li key={value.key} className="px-5">
-            {index !== 0 && <hr className="!w-0.5 bg-yellow-700" />}
+          <li key={value.key} className="relative px-5">
+            {index !== 0 && <hr className="!w-px bg-yellow-700" />}
             <div className="timeline-middle w-4 h-4 my-0.5 bg-yellow-600 rounded-full" />
             <div
               className={`flex flex-col !mb-8 !mt-16 ${
@@ -86,7 +86,7 @@ export function Timeline() {
                 {t(`${value.key}.description`)}
               </p>
             </div>
-            <hr className="!w-0.5 bg-yellow-700" />
+            <hr className="!w-px bg-yellow-700" />
           </li>
         ))}
       </ul>
