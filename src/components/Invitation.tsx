@@ -9,7 +9,7 @@ export function Invitation() {
   const { t } = useTranslation("home");
 
   return (
-    <div className="flex flex-col items-center justify-center relative w-full h-full md:w-128 md:h-256 md:shadow-2xl md:border md:border-neutral-300 bg-neutral-100 overflow-hidden select-none pointer-events-none">
+    <div className="flex flex-col items-center justify-center relative w-full h-full md:w-128 md:h-256 shadow-2xl border border-neutral-200 bg-neutral-50 overflow-hidden select-none pointer-events-none">
       <div className="absolute top-0 w-full h-full">
         <Image
           src="/images/frame.svg"
@@ -66,7 +66,7 @@ export function Invitation() {
         <p className="text-4xl">- {t("and")} -</p>
         <p className="text-6xl md:text-7xl">Francisco</p>
       </h1>
-      <sub className={`${urbanist.className} text-stone-800 md:text-sm`}>
+      <sub className={`${urbanist.className} text-stone-500 md:text-sm`}>
         {t("date")}
       </sub>
     </div>

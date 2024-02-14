@@ -1,0 +1,38 @@
+{
+  "stop1": {
+    "title": "Guest pick-up - Stop 1",
+    "time": "from 11:00 to 11:15",
+    "place": "Plaza Cristo de Gracia",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+  },
+  "stop2": {
+    "title": "Guest pick-up - Stop 2",
+    "time": "from 11:45 to 12:00",
+    "place": "Hotel Córdoba Center",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+  },
+  "ceremony": {
+    "title": "Civil ceremony",
+    "time": "12:30",
+    "place": "Hacienda Santa María",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+  },
+  "cocktail": {
+    "title": "Cocktail",
+    "time": "12:30",
+    "place": "Hacienda Santa María",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+  },
+  "lunch": {
+    "title": "Lunch",
+    "time": "12:30",
+    "place": "Hacienda Santa María",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+  },
+  "party": {
+    "title": "Party",
+    "time": "12:30",
+    "place": "Hacienda Santa María",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+  }
+}

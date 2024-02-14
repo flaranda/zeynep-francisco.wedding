@@ -1,0 +1,39 @@
+{
+  "title": "Program",
+  "stop1": {
+    "title": "Misafir alma - Durak 1",
+    "time": "11:00 ile 11:15 arası",
+    "place": "Plaza Cristo de Gracia",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+  },
+  "stop2": {
+    "title": "Misafir alma - Durak 2",
+    "time": "11:45 ile 12:00 arası",
+    "place": "Otel Córdoba Center",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+  },
+  "ceremony": {
+    "title": "Nikah seremonisi",
+    "time": "12:30",
+    "place": "Hacienda Santa María",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+  },
+  "cocktail": {
+    "title": "Kokteyl",
+    "time": "12:30",
+    "place": "Hacienda Santa María",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+  },
+  "lunch": {
+    "title": "Yemek",
+    "time": "12:30",
+    "place": "Hacienda Santa María",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+  },
+  "party": {
+    "title": "Parti",
+    "time": "12:30",
+    "place": "Hacienda Santa María",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+  }
+}
