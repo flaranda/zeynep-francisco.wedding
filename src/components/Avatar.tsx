@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export function Avatar() {
   return (
-    <div className="flex items-center justify-center relative w-72 h-72 max-md:w-64 max-md:h-64">
+    <div className="flex items-center justify-center relative w-72 h-72 max-md:w-64 max-md:h-64 select-none pointer-events-none">
       <div className="absolute w-full h-full border border-yellow-600 rounded-full" />
       <Image
         src="/images/avatar.webp"

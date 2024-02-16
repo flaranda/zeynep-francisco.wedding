@@ -1,0 +1,107 @@
+{
+  "title": "Zeynep y Francisco - 16 de marzo de 2024",
+  "invitation": {
+    "title": "Te invitamos",
+    "subtitle": "Ven y celébralo con nosotros",
+    "and": "y",
+    "date": "16 de MARZO de 2024",
+    "where": "Dónde",
+    "when": "Cuándo",
+    "ceremonyStarts": "La ceremonia empieza a las 12:30",
+    "saveTheDate": "Guarda la fecha en tu calendario"
+  },
+  "story": {
+    "title": "Nuestra historia",
+    "subtitle": "lol",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+  },
+  "menu": {
+    "title": "Menú",
+    "subtitle": "",
+    "cocktail": {
+      "title": "Cocktail",
+      "items": [
+        "Salmorejo con lascas de jamón ibérico",
+        "Mazamorra de almendra con membrillo y pasas",
+        "Croquetas cremosas de gambas al ajillo",
+        "Croquetas de espinacas con piñones",
+        "Croquetas cremosas de puchero con jamón ibérico",
+        "Berenjenas fritas tradicionales de Casa Pepe",
+        "Ensaladilla de atún con carpaccio de pulpo y pimentón de La Vera",
+        "Pincho de pulpo a la parrilla con milhojas de patata y mayonesa de pimentón ahumado",
+        "Ensalada de tomate cherry asado, mozzarella y pesto de anacardo",
+        "Rosada frita al limón con mayonesa cítrica",
+        "Molletito de pringá del cocido",
+        "Taco crujiente de carrillada, mouse de aguacate y pico de gallo",
+        "Mouse de queso azul y manzana caramelizada",
+        "Crujiente de pisto"
+      ]
+    },
+    "lunch": {
+      "title": "Comida",
+      "items": [
+        "Corvina salvaje asada con salsa Menier y verduras de temporada",
+        "Pierna de cordero asada y deshuesada, salsa de naranja y frutos secos caramelizados",
+        "Tarta de quesos, helado de frambuesa y frutos rojos"
+      ]
+    },
+    "drink": {
+      "title": "Bodega",
+      "items": [
+        "Fino Pérez Barquero (D.O. Montilla-Moriles)",
+        "Finca La Cañada Verdejo (D.O. Montilla-Moriles)",
+        "Acontia \"Mar de Seda\"Verdejo (D.O. Toro)",
+        "Acontia 9 Tempranillo (Tudela del Duero)",
+        "Claus Ribera Tempranillo (Vino de autor. Valladolid)",
+        "Bocchoris Brut Nature (D.O. Cava)"
+      ]
+    },
+    "party": {
+      "title": "Fiesta",
+      "items": [
+        "Recena con surtido de pizzas",
+        ""
+      ]
+    }
+  },
+  "timeline": {
+    "title": "Programa",
+    "subtitle": "",
+    "stop1": {
+      "title": "Recogida de invitados - Parada 1",
+      "time": "de 11:00 a 11:15",
+      "place": "Plaza Cristo de Gracia",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+    },
+    "stop2": {
+      "title": "Recogida de invitados - Parada 2",
+      "time": "de 11:45 a 12:00",
+      "place": "Hotel Córdoba Center",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+    },
+    "ceremony": {
+      "title": "Ceremonia civil",
+      "time": "12:30",
+      "place": "Hacienda Santa María (jardín)",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+    },
+    "cocktail": {
+      "title": "Cocktail",
+      "time": "13:15",
+      "place": "Hacienda Santa María (jardín)",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+    },
+    "lunch": {
+      "title": "Comida",
+      "time": "14:30",
+      "place": "Hacienda Santa María (salón)",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+    },
+    "party": {
+      "title": "Fiesta",
+      "time": "17:00",
+      "place": "Hacienda Santa María (discoteca)",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+    }
+  }
+}
