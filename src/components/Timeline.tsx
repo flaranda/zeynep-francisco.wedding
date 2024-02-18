@@ -82,9 +82,12 @@ export function Timeline() {
                   {t(`timeline.${value.key}.place`)}
                 </Link>
               </time>
-              <p className={`${urbanist.className} mt-4 text-stone-700`}>
-                {t(`timeline.${value.key}.description`)}
-              </p>
+              <p
+                className={`${urbanist.className} mt-4 text-stone-700`}
+                dangerouslySetInnerHTML={{
+                  __html: t(`timeline.${value.key}.description`),
+                }}
+              />
             </div>
             <hr className="!w-px bg-yellow-700" />
           </li>

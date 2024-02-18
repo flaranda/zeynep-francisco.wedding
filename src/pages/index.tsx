@@ -10,6 +10,7 @@ import { Avatar } from "@/components/Avatar";
 import { Menu } from "@/components/Menu";
 import Image from "next/image";
 import { YouAreInvited } from "@/components/sections/YouAreInvited";
+import { OurStory } from "@/components/sections/OurStory";
 
 export default function Index() {
   const { t } = useTranslation();
@@ -28,11 +29,7 @@ export default function Index() {
         <Invitation />
       </section>
       <YouAreInvited />
-      <section className="flex flex-col items-center justify-center w-screen py-16 max-w-[64rem]">
-        <Title titleText={t("story.title")} />
-        <Avatar />
-        <p className="">{t("story.text")}</p>
-      </section>
+      <OurStory />
       <section className="flex flex-col items-center justify-center w-screen py-16 max-w-[64rem]">
         <Title
           titleText={t("timeline.title")}

@@ -13,7 +13,7 @@
   "story": {
     "title": "Nuestra historia",
     "subtitle": "lol",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+    "text": "<b>Todo empezó en Alemania</b>. Zeynep se había mudado allí desde Turquía para trabajar en un pueblo cercano a Berlín, pero el destino quiso que se terminase asentando en Nuremberg, compartiendo piso con Victor, uno de los mejores amigos de Fran.<br/><br/>Un fin de semana, los dos coincidimos en la fiesta de cumpleaños de Victor. Fue entonces cuando empezamos a hablar, beber juntos, y cantar Muse, Queen, y canciones tradicionales turcas en el karaoke. Ninguno de los dos sabíamos que esa noche solo era el principio.<br/><br/>Desde entonces, continuamos charlando por WhatsApp, haciendo videollamadas, y viendo películas y series juntos por internet. Además, aprovechando que podía trabajar a distancia, Fran viajó con mucha frecuencia a Alemania, lo que ayudó a asentar nuestra relación.<br/><br/>Al cabo del tiempo, tomamos la decisión de dar el siguiente paso en nuestra relación, eligiendo a España como nuestro siguiente hogar, y esperando ver qué tipo de aventuras nos aguardan el tiempo y las circunstancias tras nuestro matrimonio.<br/><br/>Lo que empezó como una simple noche cantando karaoke juntos nos ha llevado hasta el día de nuestra boda, el cual estamos deseosos de compartir con todos vosotros."
   },
   "menu": {
     "title": "Menú",
@@ -60,7 +60,18 @@
       "title": "Fiesta",
       "items": [
         "Recena con surtido de pizzas",
-        ""
+        "Ron Barceló",
+        "Ron Legendario",
+        "Ron Brugal",
+        "Whisky J&B",
+        "Whisky Red Label",
+        "Whisky DYC 8",
+        "Absolut Vodka",
+        "Ginebra Beefeater",
+        "Ginebra Seagram's",
+        "Ginebra Puerto de Indias",
+        "Baileys",
+        "Licores sin alcohol"
       ]
     }
   },
@@ -71,19 +82,19 @@
       "title": "Recogida de invitados - Parada 1",
       "time": "de 11:00 a 11:15",
       "place": "Plaza Cristo de Gracia",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+      "description": "Pondremos a disposición de los invitados un autobús para ir hasta la Hacienda. El autobús empezará su recorrido alrededor de las 11:00 y hará una primera parada de 15 minutos en la Plaza Cristo de Gracia."
     },
     "stop2": {
       "title": "Recogida de invitados - Parada 2",
       "time": "de 11:45 a 12:00",
       "place": "Hotel Córdoba Center",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+      "description": "El autobús hará una segunda y última parada de 15 minutos alrededor de las 11:45 en la explanada del Hotel Córdoba Center. A las 12:00 el autobús partirá rumbo a la Hacienda.<br/><br/><b>OJO:</b> Si no has llegado a tiempo a esta parada, te recomendamos pedir un taxi por <a href='tel:+34957764444' class='underline'>teléfono</a> o por <a href='https://pidetaxi.es/' target='_blank' class='underline'>app</a>."
     },
     "ceremony": {
       "title": "Ceremonia civil",
       "time": "12:30",
       "place": "Hacienda Santa María (jardín)",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+      "description": "Comenzaremos en los jardines de la Hacienda celebrando la ceremonia civil."
     },
     "cocktail": {
       "title": "Cocktail",
@@ -101,7 +112,7 @@
       "title": "Fiesta",
       "time": "17:00",
       "place": "Hacienda Santa María (discoteca)",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
+      "description": "¡Llegó el momento de quemar todo lo que hemos comido, dándolo todo en la pista de baile! Disfrutaremos de un <b>mínimo de cuatro horas de música y barra libre</b> en la discoteca de la Hacienda, sin que falte la tradicional recena para recargar las pilas."
     }
   }
 }

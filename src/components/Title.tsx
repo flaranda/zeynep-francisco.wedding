@@ -17,7 +17,7 @@ export function Title(props: TitleProps) {
     >
       <h2
         className={`${vibes.className} text-6xl md:text-7xl ${
-          props.white ? "text-neutral-50" : "text-neutral-800"
+          props.white ? "text-neutral-50" : "text-stone-800"
         }`}
       >
         {props.titleText}
@@ -25,7 +25,7 @@ export function Title(props: TitleProps) {
       {props.subText && (
         <sub
           className={`${urbanist.className} ${
-            props.white ? "text-neutral-200" : "text-neutral-800"
+            props.white ? "text-neutral-200" : "text-stone-600"
           } text-center text-base`}
         >
           {props.subText}
