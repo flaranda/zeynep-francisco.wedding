@@ -13,7 +13,7 @@ interface TitleProps {
 export function Title(props: TitleProps) {
   return (
     <div
-      className={`flex flex-col items-center justify-center relative my-12 ${props.className}`}
+      className={`flex flex-col items-center justify-center relative mt-12 mb-16 ${props.className}`}
     >
       <h2
         className={`${vibes.className} text-6xl md:text-7xl ${
@@ -26,7 +26,7 @@ export function Title(props: TitleProps) {
         <sub
           className={`${urbanist.className} ${
             props.white ? "text-neutral-200" : "text-stone-600"
-          } text-center text-base`}
+          } text-center text-base !italic`}
         >
           {props.subText}
         </sub>

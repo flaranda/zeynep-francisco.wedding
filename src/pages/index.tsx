@@ -16,7 +16,7 @@ export default function Index() {
   const { t } = useTranslation();
 
   return (
-    <main className="flex flex-col items-center bg-neutral-50">
+    <main className="flex flex-col items-center bg-neutral-50 overflow-hidden">
       <Head>
         <title key="title">{t("title")}</title>
       </Head>
@@ -38,7 +38,7 @@ export default function Index() {
         <Timeline />
       </section>
       <section className="flex flex-col items-center justify-center w-screen py-16 max-w-[64rem]">
-        <Title titleText={t("menu.title")} />
+        <Title titleText={t("menu.title")} subText={t("menu.subtitle")} />
         <Menu />
       </section>
     </main>

@@ -15,7 +15,7 @@ export function OurStory() {
 
   return (
     <section className="flex flex-col items-center justify-center w-screen py-16 max-w-[64rem] max-md:px-5">
-      <Title titleText={t("story.title")} />
+      <Title titleText={t("story.title")} subText={t("story.subtitle")} />
       <div className="flex flex-row max-md:flex-col items-center">
         <Avatar />
         <div className="flex flex-col flex-1 max-md:mt-12 md:ml-12">

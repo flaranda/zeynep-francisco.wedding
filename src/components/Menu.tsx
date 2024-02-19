@@ -14,9 +14,6 @@ const menuSections = [
   {
     key: "drink",
   },
-  {
-    key: "party",
-  },
 ];
 
 export function Menu() {

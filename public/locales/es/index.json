@@ -12,14 +12,54 @@
   },
   "story": {
     "title": "Nuestra historia",
-    "subtitle": "lol",
+    "subtitle": "¿Cómo hemos llegado hasta aquí?",
     "text": "<b>Todo empezó en Alemania</b>. Zeynep se había mudado allí desde Turquía para trabajar en un pueblo cercano a Berlín, pero el destino quiso que se terminase asentando en Nuremberg, compartiendo piso con Victor, uno de los mejores amigos de Fran.<br/><br/>Un fin de semana, los dos coincidimos en la fiesta de cumpleaños de Victor. Fue entonces cuando empezamos a hablar, beber juntos, y cantar Muse, Queen, y canciones tradicionales turcas en el karaoke. Ninguno de los dos sabíamos que esa noche solo era el principio.<br/><br/>Desde entonces, continuamos charlando por WhatsApp, haciendo videollamadas, y viendo películas y series juntos por internet. Además, aprovechando que podía trabajar a distancia, Fran viajó con mucha frecuencia a Alemania, lo que ayudó a asentar nuestra relación.<br/><br/>Al cabo del tiempo, tomamos la decisión de dar el siguiente paso en nuestra relación, eligiendo a España como nuestro siguiente hogar, y esperando ver qué tipo de aventuras nos aguardan el tiempo y las circunstancias tras nuestro matrimonio.<br/><br/>Lo que empezó como una simple noche cantando karaoke juntos nos ha llevado hasta el día de nuestra boda, el cual estamos deseosos de compartir con todos vosotros."
+  },
+  "timeline": {
+    "title": "Programa",
+    "subtitle": "¡No te pierdas todo lo que hemos preparado!",
+    "stop1": {
+      "title": "Recogida de invitados - Parada 1",
+      "time": "de 11:00 a 11:15",
+      "place": "Plaza Cristo de Gracia",
+      "description": "Pondremos a disposición de los invitados un autobús para ir hasta la Hacienda. El autobús empezará su recorrido alrededor de las 11:00 y hará una primera parada de 15 minutos en la Plaza Cristo de Gracia."
+    },
+    "stop2": {
+      "title": "Recogida de invitados - Parada 2",
+      "time": "de 11:45 a 12:00",
+      "place": "Hotel Córdoba Center",
+      "description": "El autobús hará una segunda y última parada de 15 minutos alrededor de las 11:45 en la explanada del Hotel Córdoba Center. A las 12:00 el autobús partirá rumbo a la Hacienda.<br/><br/><b>OJO:</b> Si no has llegado a tiempo a esta parada, te recomendamos pedir un taxi por <a href='tel:+34957764444' class='underline'>teléfono</a> o por <a href='https://pidetaxi.es/' target='_blank' class='underline'>app</a>."
+    },
+    "ceremony": {
+      "title": "Ceremonia civil",
+      "time": "12:30",
+      "place": "Hacienda Santa María (jardín)",
+      "description": "Comenzaremos en los preciosos jardines de la Hacienda celebrando la ceremonia civil. Ezgi y Victor, amigos de los novios, se encargarán de oficiar la ceremonia y de aportar un toque personal y emotivo."
+    },
+    "cocktail": {
+      "title": "Cocktail de bienvenida",
+      "time": "13:15",
+      "place": "Hacienda Santa María (jardín)",
+      "description": "Terminada la ceremonía, disfrutaremos de un cocktail de bienvenida en los mismos jardines, con el que degustaremos diferentes pequeños bocados de recetas cordobesas tradicionales."
+    },
+    "lunch": {
+      "title": "Almuerzo",
+      "time": "14:30",
+      "place": "Hacienda Santa María (salón)",
+      "description": "Continuaremos entrando al salón principal de la Hacienda para, una vez sentados, dar paso al almuerzo mientras contemplamos unas bonitas y privilegiadas vistas de la ciudad."
+    },
+    "party": {
+      "title": "Fiesta",
+      "time": "17:00",
+      "place": "Hacienda Santa María (discoteca)",
+      "description": "¡Y llegó el momento de quemar todo lo que hemos comido, dándolo todo en la pista de baile! Disfrutaremos de un <b>mínimo de cuatro horas de música y barra libre</b> en la discoteca de la Hacienda, sin que falte la tradicional recena para recargar las pilas."
+    }
   },
   "menu": {
     "title": "Menú",
-    "subtitle": "",
+    "subtitle": "Es posible que te entre hambre después de leer esto",
     "cocktail": {
-      "title": "Cocktail",
+      "title": "Cocktail de bienvenida",
       "items": [
         "Salmorejo con lascas de jamón ibérico",
         "Mazamorra de almendra con membrillo y pasas",
@@ -38,7 +78,7 @@
       ]
     },
     "lunch": {
-      "title": "Comida",
+      "title": "Almuerzo",
       "items": [
         "Corvina salvaje asada con salsa Menier y verduras de temporada",
         "Pierna de cordero asada y deshuesada, salsa de naranja y frutos secos caramelizados",
@@ -50,16 +90,14 @@
       "items": [
         "Fino Pérez Barquero (D.O. Montilla-Moriles)",
         "Finca La Cañada Verdejo (D.O. Montilla-Moriles)",
-        "Acontia \"Mar de Seda\"Verdejo (D.O. Toro)",
         "Acontia 9 Tempranillo (Tudela del Duero)",
-        "Claus Ribera Tempranillo (Vino de autor. Valladolid)",
         "Bocchoris Brut Nature (D.O. Cava)"
       ]
     },
     "party": {
       "title": "Fiesta",
       "items": [
-        "Recena con surtido de pizzas",
+        "Recena de perritos y hamburguesas",
         "Ron Barceló",
         "Ron Legendario",
         "Ron Brugal",
@@ -73,46 +111,6 @@
         "Baileys",
         "Licores sin alcohol"
       ]
-    }
-  },
-  "timeline": {
-    "title": "Programa",
-    "subtitle": "",
-    "stop1": {
-      "title": "Recogida de invitados - Parada 1",
-      "time": "de 11:00 a 11:15",
-      "place": "Plaza Cristo de Gracia",
-      "description": "Pondremos a disposición de los invitados un autobús para ir hasta la Hacienda. El autobús empezará su recorrido alrededor de las 11:00 y hará una primera parada de 15 minutos en la Plaza Cristo de Gracia."
-    },
-    "stop2": {
-      "title": "Recogida de invitados - Parada 2",
-      "time": "de 11:45 a 12:00",
-      "place": "Hotel Córdoba Center",
-      "description": "El autobús hará una segunda y última parada de 15 minutos alrededor de las 11:45 en la explanada del Hotel Córdoba Center. A las 12:00 el autobús partirá rumbo a la Hacienda.<br/><br/><b>OJO:</b> Si no has llegado a tiempo a esta parada, te recomendamos pedir un taxi por <a href='tel:+34957764444' class='underline'>teléfono</a> o por <a href='https://pidetaxi.es/' target='_blank' class='underline'>app</a>."
-    },
-    "ceremony": {
-      "title": "Ceremonia civil",
-      "time": "12:30",
-      "place": "Hacienda Santa María (jardín)",
-      "description": "Comenzaremos en los jardines de la Hacienda celebrando la ceremonia civil."
-    },
-    "cocktail": {
-      "title": "Cocktail",
-      "time": "13:15",
-      "place": "Hacienda Santa María (jardín)",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
-    },
-    "lunch": {
-      "title": "Comida",
-      "time": "14:30",
-      "place": "Hacienda Santa María (salón)",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a iaculis massa, sit amet maximus ligula. Praesent iaculis eros quis varius scelerisque. Vivamus varius tortor sem, vel auctor neque dignissim at. Pellentesque mattis ex quis augue euismod, id suscipit massa congue. In gravida scelerisque varius."
-    },
-    "party": {
-      "title": "Fiesta",
-      "time": "17:00",
-      "place": "Hacienda Santa María (discoteca)",
-      "description": "¡Llegó el momento de quemar todo lo que hemos comido, dándolo todo en la pista de baile! Disfrutaremos de un <b>mínimo de cuatro horas de música y barra libre</b> en la discoteca de la Hacienda, sin que falte la tradicional recena para recargar las pilas."
     }
   }
 }
