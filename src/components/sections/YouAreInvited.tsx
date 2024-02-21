@@ -15,7 +15,7 @@ export function YouAreInvited() {
   const { t } = useTranslation();
 
   return (
-    <section className="flex relative flex-col items-center w-screen h-svh md:h-[44rem] py-16 bg-yellow-100 bg-[url('/images/hacienda.webp')] bg-cover bg-no-repeat bg-center max-md:bg-[-31rem_center]">
+    <section className="flex relative flex-col items-center w-screen h-screen md:h-[44rem] py-16 bg-yellow-100 bg-[url('/images/hacienda.webp')] bg-cover bg-no-repeat bg-center max-md:bg-[-31rem_center]">
       <div className="absolute top-0 left-0 w-full h-full bg-neutral-900 opacity-60 z-0" />
       <Title
         white

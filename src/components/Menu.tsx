@@ -33,9 +33,8 @@ export function Menu() {
               <p
                 className={`${urbanist.className} text-center my-2.5 text-stone-700`}
                 key={index}
-              >
-                {item}
-              </p>
+                dangerouslySetInnerHTML={{ __html: item }}
+              />
             )
           )}
         </Fragment>

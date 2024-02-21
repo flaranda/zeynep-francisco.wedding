@@ -1,0 +1,98 @@
+{
+  "title": "Zeynep ve Francisco - 16 MART 2024",
+  "invitation": {
+    "title": "Davetlisiniz",
+    "subtitle": "Gelin ve bizimle kutlayın",
+    "and": "ve",
+    "date": "16 MART 2024",
+    "where": "Nerede",
+    "when": "Ne zaman",
+    "ceremonyStarts": "Seremoni 12:30'da başlıyor",
+    "saveTheDate": "Tarihi takviminize kaydedin"
+  },
+  "story": {
+    "title": "Bizim hikayemiz",
+    "subtitle": "Buraya nasıl geldik?",
+    "text": "<b>Her şey Almanya'da başladı</b>. Zeynep, Berlin yakınlarındaki bir kasabada çalışmak için Türkiye'den oraya taşınmıştı, ancak kaderin bir cilvesi olarak Nürnberg'e yerleşti ve Fran'ın en iyi arkadaşlarından biri olan Víctor ile aynı daireyi paylaştı.<br/><br/>Bir hafta sonu, ikimiz Víctor'un doğum günü partisine denk geldik. İşte o zaman konuşmaya, birlikte içmeye ve karaoke makinesinde Muse, Queen ve geleneksel Türk şarkıları söylemeye başladık. İkimiz de o gecenin sadece bir başlangıç olduğunu bilmiyorduk.<br/><br/>O zamandan beri WhatsApp üzerinden konuşmaya, görüntülü aramaya ve çevrimiçi olarak birlikte film ve dizi izlemeye devam ettik. Ayrıca, uzaktan çalışabildiği gerçeğinden yararlanarak, Fran çok sık Almanya'ya seyahat etti ve bu da ilişkimizin yerleşmesine yardımcı oldu.<br/><br/>Bir süre sonra ilişkimizde bir sonraki adımı atmaya karar verdik, bir sonraki evimiz olarak İspanya'yı seçtik ve evliliğimizden sonra zamanın ve koşulların ne tür maceralar getireceğini görmeyi bekledik.<br/><br/>Birlikte karaoke yaptığımız basit bir gece olarak başlayan bu birliktelik, bizi sizlerle paylaşmak için sabırsızlandığımız düğün günümüze kadar götürdü."
+  },
+  "timeline": {
+    "title": "Program",
+    "subtitle": "Sizin için hazırladıklarımızı kaçırmayın!",
+    "stop1": {
+      "title": "Misafir alma - Durak 1",
+      "time": "11:00 ile 11:15 arası",
+      "place": "Plaza Cristo de Gracia",
+      "description": "Konukların Hacienda'ya gitmeleri için bir otobüs hazır bulundurulacaktır. Otobüs saat 11:00 civarında hareket edecek ve ilk olarak Plaza Cristo de Gracia'da 15 dakikalık bir mola verecektir."
+    },
+    "stop2": {
+      "title": "Misafir alma - Durak 2",
+      "time": "11:45 ile 12:00 arası",
+      "place": "Hotel Córdoba Center",
+      "description": "Otobüs saat 11:45 civarında Hotel Córdoba Center'ın kordonunda 15 dakikalık ikinci ve son bir mola verecektir. Saat 12:00'de otobüs Hacienda'ya doğru hareket edecektir.<br/><br/><b>FYI:</b> If you haven't arrived on time at this stop, we recommend ordering a cab by <a href='tel:+34957764444' class='underline'>phone</a> or by <a href='https://pidetaxi.es/' target='_blank' class='underline'>app</a>."
+    },
+    "ceremony": {
+      "title": "Nikah seremonisi",
+      "time": "12:30",
+      "place": "Hacienda Santa María (bahçe)",
+      "description": "Hacienda'nın güzel bahçelerinde sivil töreni kutlayarak başlayacağız. Gelin ve damadın arkadaşları Ezgi ve Víctor töreni yönetecek ve kişisel ve duygusal bir dokunuş sağlayacaklar."
+    },
+    "cocktail": {
+      "title": "hoş geldiniz kokteylinin",
+      "time": "13:15",
+      "place": "Hacienda Santa María (bahçe)",
+      "description": "Törenden sonra aynı bahçelerde bir hoş geldiniz kokteylinin tadını çıkaracak ve Córdoba'nın geleneksel tariflerinden farklı küçük atıştırmalıkları tadacağız."
+    },
+    "lunch": {
+      "title": "Yemek",
+      "time": "14:30",
+      "place": "Hacienda Santa María (salon)",
+      "description": "Hacienda'nın ana salonuna girmeye devam edeceğiz ve oturduktan sonra şehrin güzel ve ayrıcalıklı manzaralarını seyrederken öğle yemeği yiyeceğiz."
+    },
+    "party": {
+      "title": "Parti",
+      "time": "17:00",
+      "place": "Hacienda Santa María (disco)",
+      "description": "And... it's time to burn everything we've eaten, giving it all on the dance floor! We will enjoy a <b>minimum of four hours of music and open bar</b> at the Hacienda's discotheque, without missing the traditional \"redinner\" to recharge your batteries."
+    }
+  },
+  "menu": {
+    "title": "Menü",
+    "subtitle": "Bunu okuduktan sonra acıkacaksınız",
+    "cocktail": {
+      "title": "Hoş geldiniz kokteylinin",
+      "items": [
+        "<i>Salmorejo</i> with slices of Iberian ham",
+        "Almond <i>mazamorra</i> with quince and raisins",
+        "Creamy garlic shrimp croquettes",
+        "Spinach croquettes with pine nuts",
+        "Creamy croquettes of stew with Iberian ham",
+        "Casa Pepe's traditional fried eggplants",
+        "Tuna salad with octopus carpaccio and paprika",
+        "Grilled octopus skewer with potato millefeuille and smoked paprika mayonnaise",
+        "Roasted cherry tomato salad, mozzarella and cashew pesto",
+        "Lemon fried <i>rosada</i> with citrus mayonnaise",
+        "Stew <i>pringá</i> sandwich",
+        "Crispy taco of pork cheeks, avocado mouse and <i>pico de gallo</i>",
+        "Blue cheese and caramelized apple mousse",
+        "Crunchy ratatouille"
+      ]
+    },
+    "lunch": {
+      "title": "Yemek",
+      "items": [
+        "Roasted wild sea bass with Menier sauce and seasonal vegetables",
+        "Roasted and boneless leg of lamb, orange sauce and caramelized nuts",
+        "Cheese cake, raspberry ice cream and red fruits"
+      ]
+    },
+    "drink": {
+      "title": "Şaraphane",
+      "items": [
+        "Fino Pérez Barquero (D.O. Montilla-Moriles)",
+        "Finca La Cañada Verdejo (D.O. Montilla-Moriles)",
+        "Acontia 9 Tempranillo (Tudela del Duero)",
+        "Bocchoris Brut Nature (D.O. Cava)"
+      ]
+    }
+  }
+}

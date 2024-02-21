@@ -1,0 +1,98 @@
+{
+  "title": "Zeynep and Francisco - MARCH 16th, 2024",
+  "invitation": {
+    "title": "You're invited",
+    "subtitle": "Come and celebrate with us",
+    "and": "and",
+    "date": "MARCH 16th, 2024",
+    "where": "Where",
+    "when": "When",
+    "ceremonyStarts": "The ceremony starts at 12:30",
+    "saveTheDate": "Save the date in your calendar"
+  },
+  "story": {
+    "title": "Our story",
+    "subtitle": "How did we get here?",
+    "text": "<b>Everything started in Germany</b>. Zeynep had moved there from Turkey to work in a town near Berlin, but as fate would have it, she ended up settling in Nuremberg, sharing an apartment with Víctor, one of Fran's best friends.<br/><br/>One weekend, the two of us coincided at Víctor's birthday party. That's when we started talking, drinking together, and singing Muse, Queen, and traditional Turkish songs on the karaoke machine. Neither of us knew that night was just the beginning.<br/><br/>Since then, we continued talking via WhatsApp, videocalling, and watching movies and series together online. Also, taking advantage of the fact that he was able to work remotely, Fran traveled to Germany very often, which helped to settle our relationship.<br/><br/>After some time, we made the decision to take the next step in our relationship, choosing Spain as our next home, and waiting to see what kind of adventures time and circumstances would bring after our marriage.<br/><br/>What started as a simple night singing karaoke together has taken us all the way to our wedding day, which we can't wait to share with you all."
+  },
+  "timeline": {
+    "title": "Program",
+    "subtitle": "Don't miss what we have prepared!",
+    "stop1": {
+      "title": "Guest pick-up - Stop 1",
+      "time": "from 11:00 to 11:15",
+      "place": "Plaza Cristo de Gracia",
+      "description": "A bus will be available for the guests to go to the Hacienda. The bus will start its route around 11:00 and will make a first stop of 15 minutes at the Plaza Cristo de Gracia."
+    },
+    "stop2": {
+      "title": "Guest pick-up - Stop 2",
+      "time": "from 11:45 to 12:00",
+      "place": "Hotel Córdoba Center",
+      "description": "The bus will make a second and last stop of 15 minutes around 11:45 at the esplanade of the Hotel Córdoba Center. At 12:00 the bus will depart for the Hacienda.<br/><br/><b>FYI:</b> If you haven't arrived on time at this stop, we recommend ordering a cab by <a href='tel:+34957764444' class='underline'>phone</a> or by <a href='https://pidetaxi.es/' target='_blank' class='underline'>app</a>."
+    },
+    "ceremony": {
+      "title": "Civil ceremony",
+      "time": "12:30",
+      "place": "Hacienda Santa María (garden)",
+      "description": "We will begin in the beautiful gardens of the Hacienda celebrating the civil ceremony. Ezgi and Víctor, friends of the bride and groom, will officiate the ceremony and provide a personal and emotional touch."
+    },
+    "cocktail": {
+      "title": "Welcome cocktail",
+      "time": "13:15",
+      "place": "Hacienda Santa María (garden)",
+      "description": "After the ceremony, we will enjoy a welcome cocktail in the same gardens, with which we will taste different small bites of traditional recipes from Córdoba."
+    },
+    "lunch": {
+      "title": "Lunch",
+      "time": "14:30",
+      "place": "Hacienda Santa María (hall)",
+      "description": "We will continue entering the main hall of the Hacienda and, once seated, we will have lunch while we contemplate the beautiful and privileged views of the city."
+    },
+    "party": {
+      "title": "Party",
+      "time": "17:00",
+      "place": "Hacienda Santa María (disco)",
+      "description": "And... it's time to burn everything we've eaten, giving it all on the dance floor! We will enjoy a <b>minimum of four hours of music and open bar</b> at the Hacienda's discotheque, without missing the traditional \"redinner\" to recharge your batteries."
+    }
+  },
+  "menu": {
+    "title": "Menu",
+    "subtitle": "You will be hungry after reading this",
+    "cocktail": {
+      "title": "Welcome cocktail",
+      "items": [
+        "<i>Salmorejo</i> with slices of Iberian ham",
+        "Almond <i>mazamorra</i> with quince and raisins",
+        "Creamy garlic shrimp croquettes",
+        "Spinach croquettes with pine nuts",
+        "Creamy croquettes of stew with Iberian ham",
+        "Casa Pepe's traditional fried eggplants",
+        "Tuna salad with octopus carpaccio and paprika",
+        "Grilled octopus skewer with potato millefeuille and smoked paprika mayonnaise",
+        "Roasted cherry tomato salad, mozzarella and cashew pesto",
+        "Lemon fried <i>rosada</i> with citrus mayonnaise",
+        "Stew <i>pringá</i> sandwich",
+        "Crispy taco of pork cheeks, avocado mouse and <i>pico de gallo</i>",
+        "Blue cheese and caramelized apple mousse",
+        "Crunchy ratatouille"
+      ]
+    },
+    "lunch": {
+      "title": "Lunch",
+      "items": [
+        "Roasted wild sea bass with Menier sauce and seasonal vegetables",
+        "Roasted and boneless leg of lamb, orange sauce and caramelized nuts",
+        "Cheese cake, raspberry ice cream and red fruits"
+      ]
+    },
+    "drink": {
+      "title": "Winery",
+      "items": [
+        "Fino Pérez Barquero (D.O. Montilla-Moriles)",
+        "Finca La Cañada Verdejo (D.O. Montilla-Moriles)",
+        "Acontia 9 Tempranillo (Tudela del Duero)",
+        "Bocchoris Brut Nature (D.O. Cava)"
+      ]
+    }
+  }
+}
