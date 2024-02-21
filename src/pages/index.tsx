@@ -9,6 +9,7 @@ import { Title } from "@/components/Title";
 import { Menu } from "@/components/Menu";
 import { YouAreInvited } from "@/components/sections/YouAreInvited";
 import { OurStory } from "@/components/sections/OurStory";
+import { Links } from "@/components/sections/Links";
 
 export default function Index() {
   const { t } = useTranslation();
@@ -39,6 +40,7 @@ export default function Index() {
         <Title titleText={t("menu.title")} subText={t("menu.subtitle")} />
         <Menu />
       </section>
+      <Links />
     </main>
   );
 }

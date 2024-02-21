@@ -1,8 +1,8 @@
 import { useTranslation } from "next-i18next";
+import { Great_Vibes, Urbanist } from "next/font/google";
 
 import { Avatar } from "../Avatar";
 import { Title } from "../Title";
-import { Great_Vibes, Urbanist } from "next/font/google";
 
 const vibes = Great_Vibes({ subsets: ["latin"], weight: "400" });
 const urbanist = Urbanist({

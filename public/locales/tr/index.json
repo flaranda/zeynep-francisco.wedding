@@ -13,7 +13,7 @@
   "story": {
     "title": "Bizim hikayemiz",
     "subtitle": "Buraya nasıl geldik?",
-    "text": "<b>Her şey Almanya'da başladı</b>. Zeynep, Türkiye'den Almanya’ya, Berlin yakınlarındaki bir kasabada çalışmak için taşınmıştı, ancak bir süre sonra  Nürnberg'e yerleşti ve şans bu ya, Fran'in en iyi arkadaşlarından biri olan Víctor ile aynı evi paylaşmaya başladı.<br/><br/>Bir hafta sonu, ikimiz Víctor'un doğum günü partisinde bir araya geldik. İşte o zaman; konuşmaya, birlikte içmeye ve karaoke makinesinde sevdiğimiz grupladan şarkılar söylemeye başladık. İkimiz de o gecenin sadece bir başlangıç olduğunu bilmiyorduk.<br/><br/>O zamandan beri WhatsApp üzerinden mesajlaşmaya, sesli ve görüntülü konuşmaya, çevrimiçi olarak birlikte film ve dizi izlemeye devam ettik. Ayrıca, Fran’ın uzaktan çalışabilmesinin avantajını kullanarak, Fran çok sık Almanya'ya seyahat etti ve bu da ilişkimizin gelişmesine yardımcı oldu.<br/><br/>Bir süre sonra ilişkimizde bir sonraki adımı atmaya karar verdik, bir sonraki evimiz olarak İspanya'yı seçtik ve evlendikten sonra zamanın ve koşulların ne tür maceralar getireceğini görmeyi bekliyoruz.<br/><br/>Birlikte karaoke yaptığımız basit bir geceyle başlayan ilişkimiz, bizi hepinizle paylaşmak için sabırsızlandığımız düğün günümüze kadar götürdü."
+    "text": "<b>Her şey Almanya'da başladı</b>. Zeynep, Türkiye'den Almanya’ya, Berlin yakınlarındaki bir kasabada çalışmak için taşınmıştı, ancak bir süre sonra  Nürnberg'e yerleşti ve şans bu ya, Fran'in en iyi arkadaşlarından biri olan Víctor ile aynı evi paylaşmaya başladı.<br/><br/>Bir hafta sonu, ikimiz Víctor'un doğum günü partisinde bir araya geldik. İşte o zaman; konuşmaya, birlikte içmeye ve karaoke makinesinde sevdiğimiz grupladan şarkılar söylemeye başladık. İkimiz de o gecenin sadece bir başlangıç olduğunu bilmiyorduk.<br/><br/>O zamandan beri WhatsApp üzerinden mesajlaşmaya, sesli ve görüntülü konuşmaya, çevrimiçi olarak birlikte film ve dizi izlemeye devam ettik. Ayrıca, Fran’ın uzaktan çalışabilmesinin avantajını kullanarak, Fran çok sık Almanya'ya seyahat etti ve bu da ilişkimizin gelişmesine yardımcı oldu.<br/><br/>Bir süre sonra ilişkimizde bir sonraki adımı atmaya karar verdik, bir sonraki evimiz olarak İspanya'yı seçtik ve evlendikten sonra zamanın ve koşulların ne tür maceralar getireceğini görmeyi bekliyoruz.<br/><br/>Birlikte karaoke yaptığımız basit bir geceyle başlayan ilişkimiz, bizi hepinizle paylaşmak için sabırsızlandığımız düğün günümüze kadar getirdi."
   },
   "timeline": {
     "title": "Program",
@@ -52,7 +52,7 @@
       "title": "Parti",
       "time": "17:00",
       "place": "Hacienda Santa María (disco)",
-      "description": "And... it's time to burn everything we've eaten, giving it all on the dance floor! We will enjoy a <b>minimum of four hours of music and open bar</b> at the Hacienda's discotheque, without missing the traditional \"redinner\" to recharge your batteries."
+      "description": "Ve... yediğimiz her şeyi yakma zamanı, hepsini dans pistinde eriteceğiz! Hacienda'nın diskoteğinde <b>en az dört saat</b> müziğin ve açık barın tadını çıkaracağız, ayrıca enerjimizi yenilemek için geleneksel \"atıştırmalıklar\" da olacak."
     }
   },
   "menu": {
@@ -61,22 +61,22 @@
     "cocktail": {
       "title": "Hoş geldiniz kokteylinin",
       "items": [
-        "<i>Salmorejo</i> with slices of Iberian ham",
-        "Almond <i>mazamorra</i> with quince and raisins",
-        "Creamy garlic shrimp croquettes",
-        "Spinach croquettes with pine nuts",
-        "Creamy croquettes of stew with Iberian ham",
-        "Casa Pepe's traditional fried eggplants",
-        "Grilled octopus skewer with potato millefeuille and smoked paprika mayonnaise",
-        "Roasted cherry tomato salad, mozzarella and cashew pesto",
-        "Lemon fried <i>rosada</i> with citrus mayonnaise",
-        "Stew <i>pringá</i> sandwich",
-        "Crispy taco of pork cheeks, avocado mouse and <i>pico de gallo</i>",
-        "Blue cheese and caramelized apple mousse",
-        "Crunchy ratatouille",
+        "İber jambonu dilimleri ile <i>salmorejo</i>",
+        "Ayva ve kuru üzümlü badem </i>mazamorrası</i>",
+        "Kremalı sarımsaklı karides kroketler",
+        "Çam fıstıklı ıspanak kroketler",
+        "İber jambonlu ve güveç etli kremalı kroketler",
+        "Casa Pepe'nin geleneksel kızarmış patlıcanları",
+        "Patates katları üzerine füme kırmızı biber mayonezli ızgara ahtapot şiş",
+        "Kavrulmuş kiraz domates salatası, mozzarella ve kaju pesto ile",
+        "Turunç mayonezli limonlu kızarmış <i>rosada</i> balığı",
+        "Güveçte pişmiş <i>pringá</i> sandviç",
+        "Domuz yanağı, avokado püresi ve domates-soğan-biber soslu çıtır taco",
+        "Mavi küflü peynirli ve karamelize elmalı mus",
+        "Sotelenmiş patlıcan, kabak, domates ve biber",
         "Leek confit, truffle mayonnaise and Iberian ham powder on a crunchy toast",
-        "Pita bread stuffed with free-range chicken tikka masala",
-        "Homemade foie <i>pionono</i>"
+        "Çıtır kızarmış ekmek üzerinde pırasa konfit, trüf mayonezi ve İber jambonu tozu",
+        "Ev yapımı soslu tatlı hamur üzerine kaz ciğeri"
       ]
     },
     "lunch": {
@@ -96,5 +96,13 @@
         "Bocchoris Brut Nature (D.O. Cava)"
       ]
     }
+  },
+  "links": {
+    "title": "Links",
+    "subtitle": "Her şeyden biraz...",
+    "hotels": "Córdoba'deki oteller listesi",
+    "hairdressers": "Córdoba'daki kuaförlerin listesi",
+    "barbershops": "Córdoba'daki berber dükkânları listesi",
+    "restaurants": "Fran'in ünlü iyi yemek yenecek restoranlar listesi"
   }
 }

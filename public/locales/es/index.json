@@ -13,7 +13,7 @@
   "story": {
     "title": "Nuestra historia",
     "subtitle": "¿Cómo hemos llegado hasta aquí?",
-    "text": "<b>Todo empezó en Alemania</b>. Zeynep se había mudado allí desde Turquía para trabajar en un pueblo cercano a Berlín, pero el destino quiso que se terminase asentando en Nuremberg, compartiendo piso con Víctor, uno de los mejores amigos de Fran.<br/><br/>Un fin de semana, los dos coincidimos en la fiesta de cumpleaños de Víctor. Fue entonces cuando empezamos a hablar, beber juntos, y cantar Muse, Queen, y canciones tradicionales turcas en el karaoke. Ninguno de los dos sabíamos que esa noche solo era el principio.<br/><br/>Desde entonces, continuamos charlando por WhatsApp, haciendo videollamadas, y viendo películas y series juntos por internet. Además, aprovechando que podía trabajar a distancia, Fran viajó con mucha frecuencia a Alemania, lo que ayudó a asentar nuestra relación.<br/><br/>Al cabo del tiempo, tomamos la decisión de dar el siguiente paso en nuestra relación, eligiendo a España como nuestro siguiente hogar, y esperando ver qué tipo de aventuras nos aguardan el tiempo y las circunstancias tras nuestro matrimonio.<br/><br/>Lo que empezó como una simple noche cantando karaoke juntos nos ha llevado hasta el día de nuestra boda, el cual estamos deseosos de compartir con todos vosotros."
+    "text": "<b>Todo empezó en Alemania</b>. Zeynep se había mudado allí desde Turquía para trabajar en un pueblo cercano a Berlín, pero el destino quiso que se terminase asentando en Nuremberg, compartiendo piso con Víctor, uno de los mejores amigos de Fran.<br/><br/>Un fin de semana, los dos coincidimos en la fiesta de cumpleaños de Víctor. Fue entonces cuando empezamos a hablar, beber juntos, y cantar canciones de nuestros grupos favoritos en el karaoke. Ninguno de los dos sabíamos que esa noche solo era el principio.<br/><br/>Desde entonces, continuamos charlando por WhatsApp, haciendo videollamadas, y viendo películas y series juntos por internet. Además, aprovechando que podía trabajar a distancia, Fran viajó con mucha frecuencia a Alemania, lo que ayudó a asentar nuestra relación.<br/><br/>Al cabo del tiempo, tomamos la decisión de dar el siguiente paso en nuestra relación, eligiendo a España como nuestro siguiente hogar, y esperando ver qué tipo de aventuras nos aguardan el tiempo y las circunstancias tras nuestro matrimonio.<br/><br/>Lo que empezó como una simple noche cantando karaoke juntos nos ha llevado hasta el día de nuestra boda, el cual estamos deseosos de compartir con todos vosotros."
   },
   "timeline": {
     "title": "Programa",
@@ -96,5 +96,13 @@
         "Bocchoris Brut Nature (D.O. Cava)"
       ]
     }
+  },
+  "links": {
+    "title": "Enlaces",
+    "subtitle": "Un poquito de todo...",
+    "hotels": "Lista de hoteles en Córdoba",
+    "hairdressers": "Lista de peluquerías en Córdoba",
+    "barbershops": "Lista de barberías en Córdoba",
+    "restaurants": "La famosa lista de Fran de restaurantes donde comer bien"
   }
 }

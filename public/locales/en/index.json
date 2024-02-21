@@ -96,5 +96,13 @@
         "Bocchoris Brut Nature (D.O. Cava)"
       ]
     }
+  },
+  "links": {
+    "title": "Links",
+    "subtitle": "A bit of everything...",
+    "hotels": "List of hotels in Córdoba",
+    "hairdressers": "List of hairdressers in Córdoba",
+    "barbershops": "List of barbershops in Córdoba",
+    "restaurants": "Fran's famous list of restaurants to eat well"
   }
 }
