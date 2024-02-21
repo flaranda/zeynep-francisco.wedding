@@ -12,6 +12,34 @@ export function Invitation() {
     <div className="flex flex-col items-center justify-center relative w-full h-full md:w-128 md:h-256 md:shadow-2xl border border-neutral-200 bg-neutral-50 overflow-hidden select-none pointer-events-none">
       <div className="absolute top-0 w-full h-full">
         <Image
+          src="/images/hexagon-bold.svg"
+          alt=""
+          width={100}
+          height={100}
+          className="absolute -top-[8.5rem] -left-[7rem] w-[17rem] md:w-80 rotate-[10deg]"
+        />
+        <Image
+          src="/images/hexagon-bold.svg"
+          alt=""
+          width={100}
+          height={100}
+          className="absolute -bottom-[8rem] -right-[7rem] w-[17rem] md:w-80 rotate-[125deg]"
+        />
+        <Image
+          src="/images/hexagon-thin.svg"
+          alt=""
+          width={100}
+          height={100}
+          className="absolute -top-[8.5rem] -left-[7rem] w-[17rem] md:w-80 rotate-[10deg]"
+        />
+        <Image
+          src="/images/hexagon-thin.svg"
+          alt=""
+          width={100}
+          height={100}
+          className="absolute -bottom-[8rem] -right-[7rem] w-[17rem] md:w-80 rotate-[125deg]"
+        />
+        <Image
           src="/images/frame.svg"
           alt=""
           width={100}
@@ -59,6 +87,20 @@ export function Invitation() {
           width={100}
           height={100}
           className="absolute top-0 -bottom-5 right-0 left-0 m-auto w-80 md:w-96"
+        />
+        <Image
+          src="/images/leaves-2.svg"
+          alt=""
+          width={100}
+          height={100}
+          className="absolute top-[5rem] left-[14rem] md:top-[5rem] md:left-[20rem] m-auto w-7 md:w-9 rotate-[72deg]"
+        />
+        <Image
+          src="/images/leaves-2.svg"
+          alt=""
+          width={100}
+          height={100}
+          className="absolute bottom-[7rem] left-[6rem] md:bottom-[7rem] md:left-[9rem] m-auto w-7 md:w-9 rotate-[165deg] -scale-y-100"
         />
       </div>
       <h1 className={`${vibes.className} text-center text-stone-800 md:mt-4`}>

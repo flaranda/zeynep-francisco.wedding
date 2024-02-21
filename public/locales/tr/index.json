@@ -13,7 +13,7 @@
   "story": {
     "title": "Bizim hikayemiz",
     "subtitle": "Buraya nasıl geldik?",
-    "text": "<b>Her şey Almanya'da başladı</b>. Zeynep, Berlin yakınlarındaki bir kasabada çalışmak için Türkiye'den oraya taşınmıştı, ancak kaderin bir cilvesi olarak Nürnberg'e yerleşti ve Fran'ın en iyi arkadaşlarından biri olan Víctor ile aynı daireyi paylaştı.<br/><br/>Bir hafta sonu, ikimiz Víctor'un doğum günü partisine denk geldik. İşte o zaman konuşmaya, birlikte içmeye ve karaoke makinesinde Muse, Queen ve geleneksel Türk şarkıları söylemeye başladık. İkimiz de o gecenin sadece bir başlangıç olduğunu bilmiyorduk.<br/><br/>O zamandan beri WhatsApp üzerinden konuşmaya, görüntülü aramaya ve çevrimiçi olarak birlikte film ve dizi izlemeye devam ettik. Ayrıca, uzaktan çalışabildiği gerçeğinden yararlanarak, Fran çok sık Almanya'ya seyahat etti ve bu da ilişkimizin yerleşmesine yardımcı oldu.<br/><br/>Bir süre sonra ilişkimizde bir sonraki adımı atmaya karar verdik, bir sonraki evimiz olarak İspanya'yı seçtik ve evliliğimizden sonra zamanın ve koşulların ne tür maceralar getireceğini görmeyi bekledik.<br/><br/>Birlikte karaoke yaptığımız basit bir gece olarak başlayan bu birliktelik, bizi sizlerle paylaşmak için sabırsızlandığımız düğün günümüze kadar götürdü."
+    "text": "<b>Her şey Almanya'da başladı</b>. Zeynep, Türkiye'den Almanya’ya, Berlin yakınlarındaki bir kasabada çalışmak için taşınmıştı, ancak bir süre sonra  Nürnberg'e yerleşti ve şans bu ya, Fran'in en iyi arkadaşlarından biri olan Víctor ile aynı evi paylaşmaya başladı.<br/><br/>Bir hafta sonu, ikimiz Víctor'un doğum günü partisinde bir araya geldik. İşte o zaman; konuşmaya, birlikte içmeye ve karaoke makinesinde sevdiğimiz grupladan şarkılar söylemeye başladık. İkimiz de o gecenin sadece bir başlangıç olduğunu bilmiyorduk.<br/><br/>O zamandan beri WhatsApp üzerinden mesajlaşmaya, sesli ve görüntülü konuşmaya, çevrimiçi olarak birlikte film ve dizi izlemeye devam ettik. Ayrıca, Fran’ın uzaktan çalışabilmesinin avantajını kullanarak, Fran çok sık Almanya'ya seyahat etti ve bu da ilişkimizin gelişmesine yardımcı oldu.<br/><br/>Bir süre sonra ilişkimizde bir sonraki adımı atmaya karar verdik, bir sonraki evimiz olarak İspanya'yı seçtik ve evlendikten sonra zamanın ve koşulların ne tür maceralar getireceğini görmeyi bekliyoruz.<br/><br/>Birlikte karaoke yaptığımız basit bir geceyle başlayan ilişkimiz, bizi hepinizle paylaşmak için sabırsızlandığımız düğün günümüze kadar götürdü."
   },
   "timeline": {
     "title": "Program",
@@ -28,25 +28,25 @@
       "title": "Misafir alma - Durak 2",
       "time": "11:45 ile 12:00 arası",
       "place": "Hotel Córdoba Center",
-      "description": "Otobüs saat 11:45 civarında Hotel Córdoba Center'ın kordonunda 15 dakikalık ikinci ve son bir mola verecektir. Saat 12:00'de otobüs Hacienda'ya doğru hareket edecektir.<br/><br/><b>FYI:</b> If you haven't arrived on time at this stop, we recommend ordering a cab by <a href='tel:+34957764444' class='underline'>phone</a> or by <a href='https://pidetaxi.es/' target='_blank' class='underline'>app</a>."
+      "description": "Otobüs saat 11:45 civarında Hotel Córdoba Center'ın önünde 15 dakikalık ikinci ve son bir mola verecektir. Saat 12:00'de otobüs Hacienda'ya doğru hareket edecektir.<br/><br/><b>FYI:</b> Bu durağa zamanında gelemediyseniz, <a href='tel:+34957764444' class='underline'>telefonla</a> veya <a href='https://pidetaxi.es/' target='_blank' class='underline'>uygulama</a> ile taksi çağırmanızı öneririz."
     },
     "ceremony": {
       "title": "Nikah seremonisi",
       "time": "12:30",
       "place": "Hacienda Santa María (bahçe)",
-      "description": "Hacienda'nın güzel bahçelerinde sivil töreni kutlayarak başlayacağız. Gelin ve damadın arkadaşları Ezgi ve Víctor töreni yönetecek ve kişisel ve duygusal bir dokunuş sağlayacaklar."
+      "description": "Hacienda'nın güzel bahçelerinde nikah törenini kutlayarak başlayacağız. Gelin ve damadın arkadaşları Ezgi ve Víctor töreni yönetecek, kişisel ve duygusal bir dokunuş sağlayacaklar."
     },
     "cocktail": {
-      "title": "hoş geldiniz kokteylinin",
+      "title": "Hoş geldiniz kokteylinin",
       "time": "13:15",
       "place": "Hacienda Santa María (bahçe)",
-      "description": "Törenden sonra aynı bahçelerde bir hoş geldiniz kokteylinin tadını çıkaracak ve Córdoba'nın geleneksel tariflerinden farklı küçük atıştırmalıkları tadacağız."
+      "description": "Törenden sonra, aynı bahçede hoş geldiniz kokteylinin tadını çıkaracak ve Córdoba'nın geleneksel tariflerinden farklı küçük atıştırmalıkları tadacağız."
     },
     "lunch": {
       "title": "Yemek",
       "time": "14:30",
       "place": "Hacienda Santa María (salon)",
-      "description": "Hacienda'nın ana salonuna girmeye devam edeceğiz ve oturduktan sonra şehrin güzel ve ayrıcalıklı manzaralarını seyrederken öğle yemeği yiyeceğiz."
+      "description": "Hacienda'nın ana salonuna geçeceğiz ve bize ayrılan yerlerimize geçtikten sonra şehrin güzel ve ayrıcalıklı manzaralarını seyrederken öğle yemeği yiyeceğiz."
     },
     "party": {
       "title": "Parti",
@@ -67,14 +67,16 @@
         "Spinach croquettes with pine nuts",
         "Creamy croquettes of stew with Iberian ham",
         "Casa Pepe's traditional fried eggplants",
-        "Tuna salad with octopus carpaccio and paprika",
         "Grilled octopus skewer with potato millefeuille and smoked paprika mayonnaise",
         "Roasted cherry tomato salad, mozzarella and cashew pesto",
         "Lemon fried <i>rosada</i> with citrus mayonnaise",
         "Stew <i>pringá</i> sandwich",
         "Crispy taco of pork cheeks, avocado mouse and <i>pico de gallo</i>",
         "Blue cheese and caramelized apple mousse",
-        "Crunchy ratatouille"
+        "Crunchy ratatouille",
+        "Leek confit, truffle mayonnaise and Iberian ham powder on a crunchy toast",
+        "Pita bread stuffed with free-range chicken tikka masala",
+        "Homemade foie <i>pionono</i>"
       ]
     },
     "lunch": {
