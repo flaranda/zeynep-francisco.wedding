@@ -69,7 +69,7 @@ export function YouAreInvited() {
       </div>
       <div className="flex flex-row justify-center relative w-full max-w-[36rem] max-md:px-5 md:mt-24 mt-12 max-md:pb-12">
         <Link
-          href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjZzZjYwOTlvZHQwanVuMzV2dGswczd0YWggZmxhcmFuZGFnYXJjaWFAbQ&tmsrc=flarandagarcia%40gmail.com"
+          href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjZzZjYwOTlvZHQwanVuMzV2dGswczd0YWggYTliYjYyYWZjNTkxY2JmMTYzOWI4MDhmYTA5ZTVkYWE3M2ViM2FjOTkxN2I1YzllY2Q5NjRhMjJkYzRhNDkxYUBn&tmsrc=a9bb62afc591cbf1639b808fa09e5daa73eb3ac9917b5c9ecd964a22dc4a491a%40group.calendar.google.com"
           target="blank"
         >
           <button
