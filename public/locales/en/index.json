@@ -61,22 +61,22 @@
     "cocktail": {
       "title": "Welcome cocktail",
       "items": [
-        "<i>Salmorejo</i> with slices of Iberian ham",
-        "Almond <i>mazamorra</i> with quince and raisins",
+        "<i class='tooltip underline' data-tip='Traditional soup made of tomato, bread, olive oil and garlic'>Salmorejo</i> with slices of Iberian ham",
+        "Almond <i class='tooltip underline' data-tip='Traditional soup made of almonds, bread, garlic, olive oil and vinegar'>mazamorra</i> with quince and raisins",
         "Creamy garlic shrimp croquettes",
         "Spinach croquettes with pine nuts",
         "Creamy croquettes of stew with Iberian ham",
         "Casa Pepe's traditional fried eggplants",
         "Grilled octopus skewer with potato millefeuille and smoked paprika mayonnaise",
         "Roasted cherry tomato salad, mozzarella and cashew pesto",
-        "Lemon fried <i>rosada</i> with citrus mayonnaise",
-        "Stew <i>pringá</i> sandwich",
-        "Crispy taco of pork cheeks, avocado mouse and <i>pico de gallo</i>",
+        "Lemon fried white fish with citrus mayonnaise",
+        "Stew <i class='tooltip underline' data-tip='Beef and pork meat and fat slowly roasted for many hours'>pringá</i> sandwich",
+        "Crispy taco of pork cheeks, avocado mouse and <i class='tooltip underline' data-tip='Mexican sauce made of chopped tomato, onion, cilantro and lemon'>pico de gallo</i>",
         "Blue cheese and caramelized apple mousse",
         "Crunchy ratatouille",
         "Leek confit, truffle mayonnaise and Iberian ham powder on a crunchy toast",
         "Pita bread stuffed with free-range chicken tikka masala",
-        "Homemade foie <i>pionono</i>"
+        "Homemade foie <i class='tooltip underline' data-tip='Traditional small and juicy pastry from Granada'>pionono</i>"
       ]
     },
     "lunch": {

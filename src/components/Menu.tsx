@@ -20,7 +20,7 @@ export function Menu() {
   const { t } = useTranslation();
 
   return (
-    <div className="flex flex-col w-full items-center justify-center px-5">
+    <div className="flex flex-col w-full items-center justify-center px-5 tooltip">
       {menuSections.map(({ key }) => (
         <Fragment key={key}>
           <h3

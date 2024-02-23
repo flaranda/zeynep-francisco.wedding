@@ -7,6 +7,17 @@ img {
   pointer-events: none;
 }
 
+i.tooltip {
+  --tooltip-color: rgb(202,138,4);
+  --tooltip-text-color: white;
+  
+}
+
+i.tooltip::before {
+  font-style: normal;
+  max-width: 200px;
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;

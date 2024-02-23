@@ -61,8 +61,8 @@
     "cocktail": {
       "title": "Hoş geldiniz kokteylinin",
       "items": [
-        "İber jambonu dilimleri ile <i>salmorejo</i>",
-        "Ayva ve kuru üzümlü badem </i>mazamorrası</i>",
+        "İber jambonu dilimleri ile <i class='tooltip underline' data-tip='Domates ve ekmekten oluşan püre'>salmorejo</i>",
+        "Ayva ve kuru üzümlü badem <i class='tooltip underline' data-tip='Badem, bayat ekmek, sarımsak ve sirke'>mazamorrası</i>",
         "Kremalı sarımsaklı karides kroketler",
         "Çam fıstıklı ıspanak kroketler",
         "İber jambonlu ve güveç etli kremalı kroketler",
@@ -70,7 +70,7 @@
         "Patates katları üzerine füme kırmızı biber mayonezli ızgara ahtapot şiş",
         "Kavrulmuş kiraz domates salatası, mozzarella ve kaju pesto ile",
         "Turunç mayonezli limonlu kızarmış <i>rosada</i> balığı",
-        "Güveçte pişmiş <i>pringá</i> sandviç",
+        "Güveçte pişmiş <i class='tooltip underline' data-tip='Farklı kırmızı ve beyaz etlerin birlikte pişirilmesiyle elde edilir'>pringá</i> sandviç",
         "Domuz yanağı, avokado püresi ve domates-soğan-biber soslu çıtır taco",
         "Mavi küflü peynirli ve karamelize elmalı mus",
         "Sotelenmiş patlıcan, kabak, domates ve biber",
